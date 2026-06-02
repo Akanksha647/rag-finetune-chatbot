@@ -1,0 +1,5 @@
+Dell AI infrastructure includes GPU servers, Kubernetes, GPU Operator, storage, networking, and MLOps pipelines.
+
+RAG systems retrieve relevant enterprise documents and pass them to an LLM to answer questions accurately.
+
+Fine-tuning is useful when we want the model to follow a specific business style or response format.

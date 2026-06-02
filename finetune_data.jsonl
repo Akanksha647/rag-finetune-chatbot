@@ -1,0 +1,3 @@
+{"instruction":"Explain RAG simply.","input":"","output":"RAG means Retrieval-Augmented Generation. It searches trusted documents first, then gives those documents to the LLM so the answer is grounded."}
+{"instruction":"Explain when to fine-tune an LLM.","input":"","output":"Fine-tune when you want the model to learn a specific style, format, workflow, or repeated business behavior. Do not fine-tune just to add new documents; use RAG for that."}
+{"instruction":"Explain AI infrastructure for enterprise GenAI.","input":"","output":"Enterprise GenAI infrastructure usually includes GPUs, Kubernetes, model serving, vector databases, storage, networking, monitoring, security, and MLOps pipelines."}
